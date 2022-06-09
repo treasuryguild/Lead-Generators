@@ -1,4 +1,4 @@
-## Lead Generators
+# Lead Generators
 
 [Transaction Forms](https://github.com/treasuryguild/Lead-Generators/issues/new/choose)
 
