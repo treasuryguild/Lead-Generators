@@ -1,6 +1,6 @@
 # Lead Generators
 
-[Transaction Forms](https://github.com/treasuryguild/Lead-Generators/issues/new/choose)
+ - [Transaction Forms](https://github.com/treasuryguild/Lead-Generators/issues/new/choose)
 
 Fund 8 Proposals
 
